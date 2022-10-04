@@ -26,7 +26,7 @@
   <img align="center" alt="Will-Docker" height="30" width="32" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Will-Heroku" height="30" width="32" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="Will-Git" height="30" width="32" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Will-Debian" height="30" width="32" title="Debian Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
+  <img align="center" alt="Will-Debian" height="30" width="32" title="Debian Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
 </div>
   
   ##
