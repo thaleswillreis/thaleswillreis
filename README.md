@@ -1,11 +1,11 @@
 ### Olá, bem vindo ao meu perfil de desenvolvedor Java Full Stack!
 <div align="center">
   <a href="https://github.com/thaleswillreis">
-  <img height="180" width="360" src="https://github-readme-stats.vercel.app/api?username=thaleswillreis&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green"/>
+  <img width="300" height="160" src="https://github-readme-stats.vercel.app/api?username=thaleswillreis&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img width="300" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Will-Java" height="30" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Will-Java" height="30" width="32" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Will-Spring" height="30" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Will-JS" height="30" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Will-HTML" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
