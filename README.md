@@ -11,6 +11,7 @@
   <img align="center" alt="Will-HTML" height="30" width="32" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="32" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Will-TS" height="30" width="32" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Will-Ionic" height="30" width="32" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" alt="Will-Angular" height="30" width="32" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Will-React" height="30" width="32" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Will-Next" height="30" width="32"  title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
@@ -26,7 +27,6 @@
   <img align="center" alt="Will-Docker" height="30" width="32" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Will-Heroku" height="30" width="32" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="Will-Git" height="30" width="32" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Will-Debian" height="30" width="32" title="Debian Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
 </div>
   
   ##
