@@ -1,8 +1,8 @@
 ### Olá, bem vindo ao meu perfil de desenvolvedor Java Full Stack!
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaleswillreis">
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Will-Java" height="30" width="32" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
