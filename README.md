@@ -1,5 +1,5 @@
 
-### Olá, bem vindo ao meu perfil de Analista de Dados e Desenvolvedor Java!
+### Olá, bem vindo ao meu perfil de Analista de Dados e Desenvolvedor Java/Python!
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaleswillreis">
