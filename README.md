@@ -1,6 +1,9 @@
-
-### Olá, bem vindo ao meu perfil de Analista de Dados e Desenvolvedor Java/Python!
-
+<div style="display: inline_block" align="center"><br>
+<h3> Olá, bem vindo ao meu perfil de Analista de Dados e Desenvolvedor Java/Python !</h3>
+</div>
+  
+  ##
+ 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaleswillreis">
   <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -42,10 +45,9 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/thaleswill" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://sites.google.com/view/thaleswill/home"><img src="https://img.shields.io/badge/Site-Portfólio-FFC125?style=for-the-badge" target="_blank"></a>
   <a href="mailto:datascience.will@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
  
 </div>
