@@ -3,8 +3,8 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaleswillreis">
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=merko"/>
+  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Will-Python" height="34" width="34" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
