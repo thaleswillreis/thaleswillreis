@@ -9,6 +9,7 @@
   <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+    <!--
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Will-Python" height="34" width="34" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Will-Pandas" height="34" width="34" title="Pandas" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" />
@@ -32,7 +33,7 @@
   <img align="center" alt="Will-PowerBI" height="30" width="30" title="Power BI" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="aws" width="32" height="32"/>
   <img align="center" alt="Will-Looker" height="34" width="34" title="Looker Studio" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/looker-icon-svgrepo-com.svg" alt="aws" width="32" height="32"/>
   <img align="center" alt="Will-Tableau" height="34" width="34" title="Tableau" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/tableau-icon.svg" alt="aws" width="32" height="32"/>
-          
+     -->       
    <!--
   <img align="center" alt="Will-win" height="30" width="32" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
    <img align="center" alt="Will-Git" height="34" width="34" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
