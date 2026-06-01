@@ -17,6 +17,7 @@
   <img align="center" alt="Will-Java" height="34" width="34" title="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   <img align="center" alt="Will-Spring" height="32" width="32" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Will-SQLServer" height="34" width="34" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Will-Oracle" height="32" width="32" title="Oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
   <img align="center" alt="Will-MySQL" height="34" width="34" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Will-PostgreSQL" height="34" width="34" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Will-Mongo" height="34" width="34" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -32,7 +33,7 @@
   <img align="center" alt="Will-Azure" height="34" width="34" title="Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="aws" width="32" height="32"/>
   <img align="center" alt="Will-PowerBI" height="30" width="30" title="Power BI" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="aws" width="32" height="32"/>
   <img align="center" alt="Will-Looker" height="34" width="34" title="Looker Studio" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/looker-icon-svgrepo-com.svg" alt="aws" width="32" height="32"/>
-  <img align="center" alt="Will-Tableau" height="34" width="34" title="Tableau" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/tableau-icon.svg" alt="aws" width="32" height="32"/>
+ 
          
    <!--
   <img align="center" alt="Will-win" height="30" width="32" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
@@ -40,7 +41,7 @@
      <img align="center" alt="Will-VSCode" height="32" width="32" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Will-Postman" height="32" width="32" title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Will-TensorFlow" height="32" width="32" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" alt="Will-Oracle" height="32" width="32" title="Oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
+   <img align="center" alt="Will-Tableau" height="34" width="34" title="Tableau" src="https://raw.githubusercontent.com/thaleswillreis/icon-repository/main/SVG-Icons/tableau-icon.svg" alt="aws" width="32" height="32"/>
   -->
 </div>
   
