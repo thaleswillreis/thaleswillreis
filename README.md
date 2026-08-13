@@ -5,9 +5,10 @@
   ###
  
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/thaleswillreis">
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="145" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green"/>
+<a href="https://github.com/thaleswillreis">
+    <img height="150" src="https://github-stats-extended.vercel.app/api?username=thaleswillreis&hide=prs,issues,contribs&show_icons=true&theme=blue-green&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thaleswillreis&layout=compact&langs_count=7&theme=blue-green" alt="Linguagens mais usadas" />
+  </a>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -47,9 +48,15 @@
   
   ##
  
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/thaleswill" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://sites.google.com/view/thaleswill/home"><img src="https://img.shields.io/badge/Site-Portfólio-FFC125?style=for-the-badge" target="_blank"></a>
-  <a href="mailto:datascience.will@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+<!-- Links de Contato e Portfólio -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/thaleswill" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://sites.google.com/view/thaleswill/home" target="_blank">
+    <img src="https://img.shields.io/badge/Site-Portfólio-FFC125?style=for-the-badge" alt="Portfólio" />
+  </a>
+  <a href="mailto:datascience.will@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
