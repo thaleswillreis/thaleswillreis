@@ -2,7 +2,7 @@
 
 ### Analista de Dados e Desenvolvedor Backend Java e Python
 
->Me chamo Thales Will Silva Reis, natural de Imperatriz (MA). Sou bacharel em Sistemas de Informação pela Faculdade de Imperatriz (Facimp), onde também cursei especialização em Análise de Sistemas, e possuo MBA em Gestão Estratégica de Negócios pela PUC Minas. Atualmente, trabalho como Analista de Dados e BI, mas tenho ampla experiência em Programação Backend (Java e Python), Docência no Ensino Superior, Transformação Digital e Suporte Técnico, além de sólidos conhecimentos em Engenharia de Dados e Machine Learning.
+>Me chamo Thales Will Silva Reis, natural de Imperatriz (MA). Sou bacharel em Sistemas de Informação pela Faculdade de Imperatriz (Facimp), onde também cursei especialização em Análise de Sistemas, e possuo MBA em Gestão Estratégica de Negócios pela PUC Minas. Atualmente, trabalho como Analista de Dados e BI, mas tenho ampla experiência em Programação Backend (Java e Python), Docência no Ensino Superior, Transformação Digital e Suporte Técnico, além de sólidos conhecimentos em Automação, Engenharia de Dados e Machine Learning.
 
 <!-- Links de Contato e Portfólio -->
 <div align="left">
